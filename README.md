@@ -13,12 +13,12 @@ Project File : https://drive.google.com/open?id=1SBr3HSySeN98BwRX2yzPIMmjrjmPb4H
 具現すべきリスト
 ---------
 
-1. 体力の具現
-2. 体力syncronized
+~1. 体力の具現~
+~2. 体力syncronized~
 3. 弾丸の具現
 4. 弾丸 syncronized
-5. 落とし穴の具現
-6. 落とし穴 syncronized
+5. 陥穽の具現
+6. 陥穽 syncronized
 7. 瞑想の具現(HPを少しずつ回復)
 8. 自害具現(HPを少しずつ減少)
 9. ターン具現
@@ -26,7 +26,7 @@ Project File : https://drive.google.com/open?id=1SBr3HSySeN98BwRX2yzPIMmjrjmPb4H
 11. ランダムマップ作成具現
 12. How To Playを具現
 13. いろいろなキャラクターを具現
-14. ロビー具現
+~14. ロビー具現~
 15. 勝利敗北の具現
 
 -追加の具現-
