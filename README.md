@@ -28,10 +28,12 @@ Project File : https://drive.google.com/open?id=1SBr3HSySeN98BwRX2yzPIMmjrjmPb4H
 13. いろいろなキャラクターを具現
 14. ロビー具現
 15. 勝利敗北の具現
+
 -追加の具現-
 -------
-14. モバイル具現
-15. playStoreで接続具現
+
+16. モバイル具現
+17. playStoreで接続具現
 
 <hr/>
 
