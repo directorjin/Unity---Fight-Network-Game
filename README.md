@@ -20,7 +20,7 @@ Video : https://www.youtube.com/watch?v=NzC9wAe0EHc
 このプロジェクトはまだ未完成です。 GithubのLFSのbandwidthに対する問題のせいでGithubにアップロードされない状況です。 それでプロジェクトファイルのリンクを書いておきます。
 -----
 
-Project File : https://drive.google.com/open?id=1SBr3HSySeN98BwRX2yzPIMmjrjmPb4H6
+Project File : https://drive.google.com/open?id=1JD_BS6t76-b7WMhugOTMB0bSpreeeeS7 (2020/02/28)
   
   
   
