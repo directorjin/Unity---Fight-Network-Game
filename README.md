@@ -5,7 +5,7 @@
 *プロジェクトファイルでSignInSecneがあるが、FireBase連動に問題があったため始めるとLobbyから始めるようにScriptを作っておいた。
 もし、SingInSecneをテストしたいなら、Script->AfterGame->Main'sScript->EnvironmentControlにあるForceStartの変数をSignInに変えてください。*
   
-  
+*OnlyScriptsフォルダは、この文章を見ている会社の関係者の方々が私のポートフォリオを評価するのに時間を節約するために作りました。 このフォルダにはUnityのScriptだけがあります。*
 <hr/>  
   
 Play Video
