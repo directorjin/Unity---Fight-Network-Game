@@ -1,5 +1,19 @@
 # Unity---Fight-Network-Game
 [Unity] Fight Network Game 
+  
+  
+*プロジェクトファイルでSignInSecneがあるが、FireBase連動に問題があったため始めるとLobbyから始めるようにScriptを作っておいた。
+もし、SingInSecneをテストしたいなら、Script->AfterGame->Main'sScript->EnvironmentControlにあるForceStartの変数をSignInに変えてください。*
+  
+  
+<hr/>  
+  
+Play Video
+-----------
+Video : https://www.youtube.com/watch?v=NzC9wAe0EHc
+  
+<hr/> 
+
 
 <hr/>  
 
@@ -12,7 +26,7 @@ Project File : https://drive.google.com/open?id=1SBr3HSySeN98BwRX2yzPIMmjrjmPb4H
   
 具現すべきリスト
 ---------
-
+0. ファイアベース連動(現在バグ有り。 他のNetwork Connect Methodを探してみ中。)
 1. ~体力の具現~
 2. ~体力syncronized~
 3. 弾丸の具現
