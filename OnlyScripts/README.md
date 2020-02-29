@@ -2,7 +2,7 @@
 [Unity] Fight Network Game 
   
   
-*プロジェクトファイルでSignInSecneがあるが、FireBase連動に問題があったため始めるとLobbyから始めるようにScriptを作っておいた。
+*プロジェクトファイルでSignInSecneがあるが、FireBase連動に問題があったため始めるとLobbyから始めるようにScriptを作っておいた。  
 もし、SingInSecneをテストしたいなら、Script->AfterGame->Main'sScript->EnvironmentControlにあるForceStartの変数をSignInに変えてください。*
   
   
