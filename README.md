@@ -10,7 +10,10 @@
   
 Play Video
 -----------
-Video : https://www.youtube.com/watch?v=NzC9wAe0EHc
+
+<img width="700" src="https://user-images.githubusercontent.com/44941601/75992406-42fff000-5f3b-11ea-8e0b-e05983d8fa62.gif">
+
+Youtube : https://www.youtube.com/watch?v=NzC9wAe0EHc
   
 <hr/> 
 
