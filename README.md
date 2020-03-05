@@ -11,7 +11,7 @@
 Play Video
 -----------
 
-<img width="700" src="https://user-images.githubusercontent.com/44941601/75992406-42fff000-5f3b-11ea-8e0b-e05983d8fa62.gif">
+<img width="700" src="https://user-images.githubusercontent.com/44941601/75993052-4182f780-5f3c-11ea-908e-e7d68c274447.gif">
 
 Youtube : https://www.youtube.com/watch?v=NzC9wAe0EHc
   
