@@ -38,7 +38,7 @@ Project File : https://drive.google.com/open?id=1JD_BS6t76-b7WMhugOTMB0bSpreeeeS
 パッチノート
 ---------
 2020-03-07
-リファクタリング作業
+リファクタリング作業(Compose method)
   
  <hr/> 
  
