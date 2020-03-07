@@ -1,5 +1,5 @@
 # Unity---Fight-Network-Game
-[Unity] Fight Network Game 
+
   
   
 *プロジェクトファイルでSignInSecneがあるが、FireBase連動に問題があったため始めるとLobbyから始めるようにScriptを作っておいた。
