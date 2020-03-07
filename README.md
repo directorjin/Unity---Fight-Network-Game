@@ -26,20 +26,22 @@ Youtube : https://www.youtube.com/watch?v=NzC9wAe0EHc
 <hr/> 
 
 
-<hr/>  
+ 
 
 このプロジェクトはまだ未完成です。 GithubのLFSのbandwidthに対する問題のせいでGithubにアップロードされない状況です。 それでプロジェクトファイルのリンクを書いておきます。
 -----
 
 Project File : https://drive.google.com/open?id=1JD_BS6t76-b7WMhugOTMB0bSpreeeeS7 (2020/02/28)
   
-    
+<hr/>  
+
 パッチノート
 ---------
 2020-03-07
 リファクタリング作業
   
-    
+ <hr/> 
+ 
 具現すべきリスト
 ---------
 0. ファイアベース連動(現在バグ有り。 他のNetwork Connect Methodを探してみ中。)
