@@ -14,7 +14,7 @@ Caution
 *そして、ProjectFileをUnityで実行する時にAPPIDが接続が切れる場合があります。 その時はWindow->Photon Unity Networking->PUN Wizard->Setup ProjectでAPP IDに"112979f6-4140-4da6-8194-99904a43dbf5"を入れてください。*
 
 
-<hr/>  
+<hr>  
   
 Play Video
 -----------
@@ -33,8 +33,13 @@ Youtube : https://www.youtube.com/watch?v=NzC9wAe0EHc
 
 Project File : https://drive.google.com/open?id=1JD_BS6t76-b7WMhugOTMB0bSpreeeeS7 (2020/02/28)
   
+    
+パッチノート
+---------
+2020-03-07
+リファクタリング作業
   
-  
+    
 具現すべきリスト
 ---------
 0. ファイアベース連動(現在バグ有り。 他のNetwork Connect Methodを探してみ中。)
