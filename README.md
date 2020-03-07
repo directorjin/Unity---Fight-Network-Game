@@ -8,6 +8,9 @@
   
 *OnlyScriptsフォルダは、この文章を見ている会社の関係者の方々が私のポートフォリオを評価するのに時間を節約するために作りました。 このフォルダにはUnityのScriptだけがあります。*
   
+    
+Caution
+------
 *そして、ProjectFileをUnityで実行する時にAPPIDが接続が切れる場合があります。 その時はWindow->Photon Unity Networking->PUN Wizard->Setup ProjectでAPP IDに"112979f6-4140-4da6-8194-99904a43dbf5"を入れてください。*
 
 
