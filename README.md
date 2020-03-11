@@ -9,7 +9,7 @@
 <img width="500" src="https://user-images.githubusercontent.com/44941601/76395347-74087680-63ba-11ea-81d5-5882092c6e33.png">  
 早走り - SHIFT  
 ジャンプ - Space  
-  
+マウスでカメラの回転  
 <hr/>    
   
 お知らせ
