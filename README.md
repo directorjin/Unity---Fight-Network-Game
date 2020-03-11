@@ -6,8 +6,10 @@
 -------------
 
 移動キー  
-<img width="500" src="https://user-images.githubusercontent.com/44941601/76394836-76b69c00-63b9-11ea-88f8-7c440efeffb5.png">
-
+<img width="500" src="https://user-images.githubusercontent.com/44941601/76395347-74087680-63ba-11ea-81d5-5882092c6e33.png">
+早走り - SHIFT  
+ジャンプ - Space  
+  
 <hr/>    
   
 お知らせ
