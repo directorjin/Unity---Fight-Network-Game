@@ -8,6 +8,8 @@
 移動キー  
 <img width="500" src="https://user-images.githubusercontent.com/44941601/76395928-9fd82c00-63bb-11ea-9572-8db8501f6308.png">  
 
+
+<hr/> 
 お知らせ
 ------
 
