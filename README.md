@@ -50,7 +50,7 @@ Youtube : https://www.youtube.com/watch?v=NzC9wAe0EHc
 このプロジェクトはまだ未完成です。 GithubのLFSのbandwidthに対する問題のせいでGithubにアップロードされない状況です。 それでプロジェクトファイルのリンクを書いておきます。
 -----
 
-Project File : https://drive.google.com/file/d/1uK7_GwYzCx0AQL7d5i545ExH9AeFAhsA/view?usp=sharing (2020/03/16)
+Project File : https://drive.google.com/open?id=1uK7_GwYzCx0AQL7d5i545ExH9AeFAhsA (2020/03/16)
   
 <hr/>  
 
