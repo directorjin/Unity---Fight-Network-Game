@@ -1,4 +1,4 @@
-# Unity---Fight-Network-Game
+# Unity---Fight-Network-Game(20200316)
 
 <hr>  
 
@@ -35,7 +35,10 @@ Play Video
 <img width="700" src="https://user-images.githubusercontent.com/44941601/75993052-4182f780-5f3c-11ea-908e-e7d68c274447.gif">
 
 Youtube : https://www.youtube.com/watch?v=NzC9wAe0EHc
-  
+
+*20200316 Recently Video*
+<img width="700" src="https://user-images.githubusercontent.com/44941601/76725832-c4a11a80-6792-11ea-89c2-6bfd495bb2a7.gif">
+
 <hr/> 
 
 
@@ -55,13 +58,13 @@ Project File : https://drive.google.com/open?id=1JD_BS6t76-b7WMhugOTMB0bSpreeeeS
   
  <hr/> 
  
-具現すべきリスト
+具現すべきリスト(20200316)
 ---------
 0. ファイアベース連動(現在バグ有り。 他のNetwork Connect Methodを探してみ中。)
 1. ~体力の具現~
 2. ~体力syncronized~
-3. 弾丸の具現
-4. 弾丸 syncronized
+3. ~弾丸の具現~
+4. ~弾丸 syncronized~
 5. 陥穽の具現
 6. 陥穽 syncronized
 7. 瞑想の具現(HPを少しずつ回復)
