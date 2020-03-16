@@ -1,4 +1,4 @@
-# Unity---Fight-Network-Game
+# Unity---Fight-Network-Game(20200316)
 
 <hr>  
 
@@ -32,10 +32,16 @@
 Play Video
 -----------
 
+*20200228 first video*
+
 <img width="700" src="https://user-images.githubusercontent.com/44941601/75993052-4182f780-5f3c-11ea-908e-e7d68c274447.gif">
 
 Youtube : https://www.youtube.com/watch?v=NzC9wAe0EHc
-  
+
+*20200316 Recently Video(Implement sychonized bullet)*
+
+<img width="700" src="https://user-images.githubusercontent.com/44941601/76725832-c4a11a80-6792-11ea-89c2-6bfd495bb2a7.gif">
+
 <hr/> 
 
 
@@ -44,7 +50,7 @@ Youtube : https://www.youtube.com/watch?v=NzC9wAe0EHc
 このプロジェクトはまだ未完成です。 GithubのLFSのbandwidthに対する問題のせいでGithubにアップロードされない状況です。 それでプロジェクトファイルのリンクを書いておきます。
 -----
 
-Project File : https://drive.google.com/open?id=1JD_BS6t76-b7WMhugOTMB0bSpreeeeS7 (2020/02/28)
+Project File : https://drive.google.com/open?id=1uK7_GwYzCx0AQL7d5i545ExH9AeFAhsA (2020/03/16)
   
 <hr/>  
 
@@ -52,16 +58,18 @@ Project File : https://drive.google.com/open?id=1JD_BS6t76-b7WMhugOTMB0bSpreeeeS
 ---------
 2020-03-07
 リファクタリング作業(Composing methods)
-  
+2020-03-16
+弾丸の実装
+
  <hr/> 
  
-具現すべきリスト
+具現すべきリスト(20200316)
 ---------
 0. ファイアベース連動(現在バグ有り。 他のNetwork Connect Methodを探してみ中。)
 1. ~体力の具現~
 2. ~体力syncronized~
-3. 弾丸の具現
-4. 弾丸 syncronized
+3. ~弾丸の具現~
+4. ~弾丸 syncronized~
 5. 陥穽の具現
 6. 陥穽 syncronized
 7. 瞑想の具現(HPを少しずつ回復)
