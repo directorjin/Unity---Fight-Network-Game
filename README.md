@@ -50,7 +50,7 @@ Youtube : https://www.youtube.com/watch?v=NzC9wAe0EHc
 このプロジェクトはまだ未完成です。 GithubのLFSのbandwidthに対する問題のせいでGithubにアップロードされない状況です。 それでプロジェクトファイルのリンクを書いておきます。
 -----
 
-Project File : https://drive.google.com/open?id=1JD_BS6t76-b7WMhugOTMB0bSpreeeeS7 (2020/02/28)
+Project File : https://drive.google.com/file/d/1uK7_GwYzCx0AQL7d5i545ExH9AeFAhsA/view?usp=sharing (2020/03/16)
   
 <hr/>  
 
@@ -58,7 +58,9 @@ Project File : https://drive.google.com/open?id=1JD_BS6t76-b7WMhugOTMB0bSpreeeeS
 ---------
 2020-03-07
 リファクタリング作業(Composing methods)
-  
+2020-03-16
+弾丸の実装
+
  <hr/> 
  
 具現すべきリスト(20200316)
