@@ -32,11 +32,14 @@
 Play Video
 -----------
 
+*first video*
+
 <img width="700" src="https://user-images.githubusercontent.com/44941601/75993052-4182f780-5f3c-11ea-908e-e7d68c274447.gif">
 
 Youtube : https://www.youtube.com/watch?v=NzC9wAe0EHc
 
-*20200316 Recently Video*
+*20200316 Recently Video(Implement sychonized bullet)*
+
 <img width="700" src="https://user-images.githubusercontent.com/44941601/76725832-c4a11a80-6792-11ea-89c2-6bfd495bb2a7.gif">
 
 <hr/> 
