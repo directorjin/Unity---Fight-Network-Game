@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "229230064836",
+    "firebase_url": "https://unity-rcp-backend.firebaseio.com",
+    "project_id": "unity-rcp-backend",
+    "storage_bucket": "unity-rcp-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229230064836:android:5e5e62e1ceec74cf43c591",
+        "android_client_info": {
+          "package_name": "com.network_eohjin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229230064836-ds7c4mc2olfu8jvnsvldck319joeh1s1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.network_eohjin",
+            "certificate_hash": "cb82b3768d7cae9a5a9bef1935a83d8352713fde"
+          }
+        },
+        {
+          "client_id": "229230064836-qtig8u1pgqauu76j9464bm1h43gvun5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZhwBkpO167dqwiuEd2aF7CXJAT7eEAVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229230064836-qtig8u1pgqauu76j9464bm1h43gvun5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
